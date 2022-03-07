@@ -7,6 +7,9 @@ font-size: 14px;
 body{
 font-family: "san-serif";
 }
+span.see{
+color: #FFBA08;
+}
 .dropdown{
 position: fixed;
  height:50px;
